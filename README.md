@@ -1,6 +1,6 @@
 # Busca Veículos
 Uma única página que utiliza a base de dados do SINESP
-e retorna todas as marcas e modelos
+e retorna todas as marcas e modelos de veículos
 <br>
 **Não esqueça de dar uma estrela para o repo :)**
 <br>
