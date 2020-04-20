@@ -1,0 +1,6 @@
+{
+    "require": {
+        "chapeupreto/sinesp": "^1.7",
+        "deividfortuna/fipe": "^2.4"
+    }
+}

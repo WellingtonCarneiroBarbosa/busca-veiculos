@@ -1,4 +1,16 @@
-# Busca veículos
-Simples código que realiza consulta na base de dados da SINESP e retorna um select de marcas e modelos.
+# Busca Veículos
+Uma única página que utiliza a base de dados do SINESP
+e retorna todas as marcas e modelos
+<br>
+Para saber mais sobre como se utiliza a biblioteca, [clique aqui] (https://github.com/deividfortuna/fipe)
+
+# Getting Started
+1. Primeiro, clone o repositório
+```
+git clone https://github.com/WellingtonCarneiroBarbosa/busca-veiculos.git
+```
+2. Você deve possuir o módulo do cURL ativo
+
+3. Visite [http://localhost/busca-veiculos](http://localhost/busca-veiculos) e voalá :)
 
 

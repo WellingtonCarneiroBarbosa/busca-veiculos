@@ -1,0 +1,33 @@
+{
+  "name": "deividfortuna/fipe",
+  "description": "Tabela Fipe Lib",
+  "version": "2.4.1",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Deivid Fortuna",
+      "email": "deividfortuna@gmail.com"
+    },
+    {
+      "name": "Alison Monteiro",
+      "email": "hi@alisonmonteiro.com.br"
+    },
+    {
+      "name": "Felipe Torretto",
+      "email": "toreti@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "DeividFortuna\\Fipe\\": "src/"
+    }
+  }
+}
