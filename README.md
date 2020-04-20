@@ -2,7 +2,7 @@
 Uma única página que utiliza a base de dados do SINESP
 e retorna todas as marcas e modelos
 <br>
-Para saber mais sobre como se utiliza a biblioteca, [clique aqui] (https://github.com/deividfortuna/fipe)
+Para saber mais sobre como se utiliza a biblioteca, (clique aqui) [https://github.com/deividfortuna/fipe]
 
 # Getting Started
 1. Primeiro, clone o repositório
